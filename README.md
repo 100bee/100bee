@@ -18,8 +18,8 @@ public class Jisuk {
     String goal     = "확장 가능하고 신뢰할 수 있는 서버 설계";
 
     String[] currently = {
-        "ITPT — AI 기반 CS 면접 준비 플랫폼 개발 중",
-        "Chronote — 학습 관리 플랫폼 개발 중",
+        "ITPT — AI 기반 CS 면접 준비 플랫폼 유지, 보수 중",
+        "Chronote — 학습 관리 플랫폼, 기존 Node.js 백엔드를 Java Spring Boot로 마이그레이션 진행 중",
         "Spring Boot / JPA 심화 학습 중"
     };
 }
@@ -120,14 +120,14 @@ public class Jisuk {
     <td><img src="https://img.shields.io/badge/졸업-2563EB?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>2025.03 ~ 진행중</td>
+    <td>2025.12 ~ 2026.03</td>
     <td>ITPT 개발 (졸업 프로젝트)</td>
-    <td><img src="https://img.shields.io/badge/In_Progress-22c55e?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/배포완료-22c55e?style=flat-square"/><td>
   </tr>
   <tr>
-    <td>2025.09 ~ 2025.12</td>
+    <td>2025.06 ~ 2025.12</td>
     <td>Chronote 개발 (TABA팀 프로젝트)</td>
-    <td><img src="https://img.shields.io/badge/In_Progress-22c55e?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Java_Spring으로_전환중-f59e0b?style=flat-square"/></td>
   </tr>
 </table>
 
