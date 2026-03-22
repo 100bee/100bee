@@ -115,17 +115,17 @@ public class Jisuk {
     <th>비고</th>
   </tr>
   <tr>
-    <td>20XX.03 ~ 20XX.02</td>
+    <td>2024.03 ~ 2026.08</td>
     <td>단국대학교 소프트웨어학과</td>
     <td><img src="https://img.shields.io/badge/졸업-2563EB?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>20XX.XX ~ 진행중</td>
+    <td>2025.03 ~ 진행중</td>
     <td>ITPT 개발 (졸업 프로젝트)</td>
     <td><img src="https://img.shields.io/badge/In_Progress-22c55e?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>20XX.XX ~ 진행중</td>
+    <td>2025.09 ~ 2025.12</td>
     <td>Chronote 개발 (TABA팀 프로젝트)</td>
     <td><img src="https://img.shields.io/badge/In_Progress-22c55e?style=flat-square"/></td>
   </tr>
