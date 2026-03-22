@@ -27,9 +27,9 @@ public class Jisuk {
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ⚙️ Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -37,18 +37,13 @@ public class Jisuk {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Database & Infra
+### Database & Infra
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🔐 Auth & AI
+### Auth & AI
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -56,22 +51,22 @@ public class Jisuk {
 
 <br/>
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎤 ITPT</h3>
+      <h3>ITPT</h3>
       <p><b>IT Interview Practice Tool</b></p>
       <p>개발자를 위한 AI 기반 CS 기술 면접 준비 플랫폼.<br/>음성 답변 → STT 변환 → GPT 채점/피드백/꼬리질문 자동 생성</p>
       <br/>
       <b>Key Features</b>
       <ul>
-        <li>🗣️ Clova STT + GPT-4o-mini 채점·피드백</li>
-        <li>📊 카테고리별 약점 분석 대시보드</li>
-        <li>🔐 JWT + Google·Kakao·Naver OAuth 2.0</li>
-        <li>👑 관리자 페이지 (문제은행·유저관리)</li>
-        <li>🐳 Docker Compose / AWS EC2 배포 예정</li>
+        <li>Clova STT + GPT-4o-mini 채점·피드백</li>
+        <li>카테고리별 약점 분석 대시보드</li>
+        <li>JWT + Google·Kakao·Naver OAuth 2.0</li>
+        <li>관리자 페이지 (문제은행·유저관리)</li>
+        <li>Docker Compose / AWS EC2 배포 예정</li>
       </ul>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -84,17 +79,17 @@ public class Jisuk {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Chronote</h3>
+      <h3>Chronote</h3>
       <p><b>AI-based Learning Management Platform</b></p>
       <p>AI 관심사 매칭으로 그룹 스터디를 연결하고,<br/>타이머·투두·랭킹으로 학습 습관을 형성하는 플랫폼</p>
       <br/>
       <b>Key Features</b>
       <ul>
-        <li>🤖 FastAPI AI 관심사 매칭 → 그룹 자동 연결</li>
-        <li>💬 실시간 그룹 채팅 / 개인 학습 기록</li>
-        <li>⏱️ 타이머 · 투두 · 랭킹 보드</li>
-        <li>📈 학습 통계 시각화 대시보드</li>
-        <li>🔄 Node.js → Spring Boot 마이그레이션 예정</li>
+        <li>FastAPI AI 관심사 매칭 → 그룹 자동 연결</li>
+        <li>실시간 그룹 채팅 / 개인 학습 기록</li>
+        <li>타이머 · 투두 · 랭킹 보드</li>
+        <li>학습 통계 시각화 대시보드</li>
+        <li>Node.js → Spring Boot 마이그레이션 예정</li>
       </ul>
       <br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -131,7 +126,7 @@ public class Jisuk {
   </tr>
   <tr>
     <td>20XX.XX ~ 진행중</td>
-    <td>Chronote 개발 (팀 프로젝트)</td>
+    <td>Chronote 개발 (TABA팀 프로젝트)</td>
     <td><img src="https://img.shields.io/badge/In_Progress-22c55e?style=flat-square"/></td>
   </tr>
 </table>
