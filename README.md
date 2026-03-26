@@ -34,7 +34,6 @@ public class Jisuk {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database & Infra
@@ -89,7 +88,7 @@ public class Jisuk {
         <li>실시간 그룹 채팅 / 개인 학습 기록</li>
         <li>타이머 · 투두 · 랭킹 보드</li>
         <li>학습 통계 시각화 대시보드</li>
-        <li>Node.js → Spring Boot 마이그레이션 예정</li>
+        <li>Node.js → Spring Boot 마이그레이션 완료</li>
       </ul>
       <br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -127,7 +126,7 @@ public class Jisuk {
   <tr>
     <td>2025.06 ~ 2025.12</td>
     <td>Chronote 개발 (TABA팀 프로젝트)</td>
-    <td><img src="https://img.shields.io/badge/Java_Spring으로_전환중-f59e0b?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Java_Spring으로_전환완료-f59e0b?style=flat-square"/></td>
   </tr>
 </table>
 
