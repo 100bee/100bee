@@ -14,13 +14,13 @@ public class Jisuk {
 
     String name     = "정지석";
     String role     = "Backend Developer";
-    String focus    = "Java / Spring Boot / MySQL";
+    String focus    = "Java / Spring Boot / JPA / MySQL";
     String goal     = "확장 가능하고 신뢰할 수 있는 서버 설계";
 
     String[] currently = {
-        "ITPT — AI 기반 CS 면접 준비 플랫폼 유지, 보수 중",
-        "Chronote — 학습 관리 플랫폼, 기존 Node.js 백엔드를 Java Spring Boot로 마이그레이션 진행 중",
-        "Spring Boot / JPA 심화 학습 중"
+        "ITPT — AI 기반 CS 면접 준비 플랫폼 개발 및 배포 완료",
+        "Chronote — 학습 관리 플랫폼 백엔드를 Node.js에서 Java Spring Boot로 마이그레이션 완료",
+        "Spring Boot / JPA 심화 학습 및 운영 개선 중"
     };
 }
 ```
@@ -34,7 +34,6 @@ public class Jisuk {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database & Infra
 ![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,10 +41,10 @@ public class Jisuk {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Auth & AI
+### Auth / API Integration
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ClovaSpeech](https://img.shields.io/badge/Clova_Speech_STT-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 
 <br/>
@@ -65,7 +64,7 @@ public class Jisuk {
         <li>카테고리별 약점 분석 대시보드</li>
         <li>JWT + Google·Kakao·Naver OAuth 2.0</li>
         <li>관리자 페이지 (문제은행·유저관리)</li>
-        <li>Docker Compose / AWS EC2 배포 예정</li>
+        <li>Docker Compose / AWS EC2 배포 완료</li>
       </ul>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -84,15 +83,14 @@ public class Jisuk {
       <br/>
       <b>Key Features</b>
       <ul>
-        <li>FastAPI AI 관심사 매칭 → 그룹 자동 연결</li>
+        <li>AI 관심사 매칭 API 연동 → 그룹 자동 연결</li>
         <li>실시간 그룹 채팅 / 개인 학습 기록</li>
         <li>타이머 · 투두 · 랭킹 보드</li>
         <li>학습 통계 시각화 대시보드</li>
         <li>Node.js → Spring Boot 마이그레이션 완료</li>
       </ul>
       <br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <br/><br/>
@@ -121,7 +119,7 @@ public class Jisuk {
   <tr>
     <td>2025.12 ~ 2026.03</td>
     <td>ITPT 개발 (졸업 프로젝트)</td>
-    <td><img src="https://img.shields.io/badge/배포완료-22c55e?style=flat-square"/><td>
+    <td><img src="https://img.shields.io/badge/배포완료-22c55e?style=flat-square"/></td>
   </tr>
   <tr>
     <td>2025.06 ~ 2025.12</td>
