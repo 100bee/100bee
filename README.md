@@ -72,7 +72,7 @@ public class Jisuk {
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <br/><br/>
-      <a href="https://github.com/100bee/itpt">
+      <a href="https://github.com/CSInterviewProject/ITPT_PUBLIC">
         <img src="https://img.shields.io/badge/GitHub-ITPT_Repo-181717?style=flat-square&logo=github"/>
       </a>
     </td>
