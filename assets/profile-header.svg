@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">Jiseok Jung — Software Engineer</title>
-  <desc id="description">A pure white editorial header with black typography, a blue 100 BEE monogram, and interests in software, AI, data, and infrastructure.</desc>
+  <desc id="description">A pure white editorial header with black typography, a blue 100 BEE monogram, and interests in software, AI, data, MLOps,and infrastructure.</desc>
   <rect x="0.5" y="0.5" width="1199" height="299" fill="#FFFFFF" stroke="#DEE4ED"/>
   <g font-family="Arial, Helvetica, sans-serif">
     <text x="48" y="44" fill="#161B22" font-family="'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="3">100BEE</text>
