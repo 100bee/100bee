@@ -1,146 +1,110 @@
-<!-- Header -->
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Jiseok Jung — Software Engineer. Software, AI, Data, Infrastructure." />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,7C3AED&height=160&section=header&text=Hi,%20I'm%20지석&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20·%20Java%20·%20Spring%20Boot&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+**[Portfolio ↗](https://100bee.github.io/)** &nbsp; · &nbsp; [Projects](#selected-projects) &nbsp; · &nbsp; [Contact](#contact)
 
-</div>
+## About
 
-<br/>
+안녕하세요, **소프트웨어 엔지니어 정지석**입니다.<br/>
+문제를 이해하고 필요한 기술을 연결해, 실제로 사용할 수 있는 서비스를 만듭니다.
 
-## 👋 About Me
-
-```java
-public class Jisuk {
-
-    String name     = "정지석";
-    String role     = "Backend Developer";
-    String focus    = "Java / Spring Boot / JPA / MySQL";
-    String goal     = "확장 가능하고 신뢰할 수 있는 서버 설계";
-
-    String[] currently = {
-        "ITPT — AI 기반 CS 면접 준비 플랫폼 개발 및 배포 완료",
-        "Chronote — 학습 관리 플랫폼 백엔드를 Node.js에서 Java Spring Boot로 마이그레이션 완료",
-        "Spring Boot / JPA 심화 학습 및 운영 개선 중"
-    };
-}
-```
-
-<br/>
+AI·컴퓨터비전·데이터·인프라에 관심을 두고, 프로젝트의 구현부터 평가와 배포까지 경험을 쌓고 있습니다.
 
 ## Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+**AI & Computer Vision**
 
-### Database & Infra
-![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-2563EB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-2563EB?style=flat-square&logo=opencv&logoColor=white)
 
-### Auth / API Integration
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ClovaSpeech](https://img.shields.io/badge/Clova_Speech_STT-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+**Software Development**
 
-<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=white)
 
-## Projects
+**Data & Retrieval**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-111827?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infrastructure & Delivery**
+
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-111827?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white)
+
+## Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ITPT</h3>
-      <p><b>IT Interview Practice Tool</b></p>
-      <p>개발자를 위한 AI 기반 CS 기술 면접 준비 플랫폼.<br/>음성 답변 → STT 변환 → GPT 채점/피드백/꼬리질문 자동 생성</p>
-      <br/>
-      <b>Key Features</b>
+      <h3><a href="https://github.com/100bee/rag-ops-copilot">RAGOps Copilot ↗</a></h3>
+      <p><b>운영 문서 기반 RAG 장애 대응 도우미</b></p>
+      <p>Runbook과 장애 기록에서 관련 근거를 검색해 대응 절차를 제안하는 서비스입니다.</p>
       <ul>
-        <li>Clova STT + GPT-4o-mini 채점·피드백</li>
-        <li>카테고리별 약점 분석 대시보드</li>
-        <li>JWT + Google·Kakao·Naver OAuth 2.0</li>
-        <li>관리자 페이지 (문제은행·유저관리)</li>
-        <li>Docker Compose / AWS EC2 배포 완료</li>
+        <li>벡터·키워드·하이브리드 검색 비교</li>
+        <li>Golden Dataset 기반 검색 품질·지연시간 평가</li>
+        <li>출처, 검색 점수, 토큰 사용량과 실행 기록 확인</li>
       </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/CSInterviewProject/ITPT_PUBLIC">
-        <img src="https://img.shields.io/badge/GitHub-ITPT_Repo-181717?style=flat-square&logo=github"/>
-      </a>
+      <p><sub>Python · FastAPI · PostgreSQL · pgvector · Next.js</sub></p>
+      <p><a href="https://github.com/100bee/rag-ops-copilot/blob/main/docs/hybrid-retrieval-experiment.md">검색 비교 실험 ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Chronote</h3>
-      <p><b>AI-based Learning Management Platform</b></p>
-      <p>AI 관심사 매칭으로 그룹 스터디를 연결하고,<br/>타이머·투두·랭킹으로 학습 습관을 형성하는 플랫폼</p>
-      <br/>
-      <b>Key Features</b>
+      <h3><a href="https://github.com/CSInterviewProject/ITPT_PUBLIC">ITPT ↗</a></h3>
+      <p><b>AI 기반 CS 면접 연습 플랫폼</b></p>
+      <p>음성 답변부터 STT 변환, AI 평가와 피드백, 학습 기록까지 연결한 면접 연습 서비스입니다.</p>
       <ul>
-        <li>AI 관심사 매칭 API 연동 → 그룹 자동 연결</li>
-        <li>실시간 그룹 채팅 / 개인 학습 기록</li>
-        <li>타이머 · 투두 · 랭킹 보드</li>
-        <li>학습 통계 시각화 대시보드</li>
-        <li>Node.js → Spring Boot 마이그레이션 완료</li>
+        <li>Clova STT·OpenAI 연동과 약점 분석 대시보드</li>
+        <li>JWT·OAuth 2.0 인증 및 문제 은행 관리</li>
+        <li>Docker·AWS EC2 배포와 GitHub Actions 자동화</li>
       </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <br/><br/>
-      <a href="https://github.com/100bee/chronote">
-        <img src="https://img.shields.io/badge/GitHub-Chronote_Repo-181717?style=flat-square&logo=github"/>
-      </a>
+      <p><sub>Java · Spring Boot · React · MySQL · Docker</sub></p>
+      <p><a href="https://itptapp.com/">서비스 방문 ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/100bee/a-little-writer">a-little-writer ↗</a></h3>
+      <p><b>일기를 4컷 만화로 만드는 AI 앱</b></p>
+      <p>일기 텍스트에서 장면을 기획하고, 대사와 이미지 프롬프트를 만든 뒤 4컷 만화를 생성합니다.</p>
+      <ul>
+        <li>기획 → 프롬프트·대사 → 이미지 생성 워크플로</li>
+        <li>그림 스타일, 대사 톤과 이미지 시드 선택</li>
+      </ul>
+      <p><sub>Python · Streamlit · Gemini · Pollinations</sub></p>
+      <p><a href="https://github.com/100bee/a-little-writer#demo">생성 결과 보기 ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/100bee/chronote">Chronote ↗</a></h3>
+      <p><b>함께 공부하는 AI 학습 관리 플랫폼</b></p>
+      <p>관심사 기반 스터디 매칭과 학습 기록을 연결해 꾸준히 공부할 수 있도록 돕는 팀 프로젝트입니다.</p>
+      <ul>
+        <li>AI 관심사 매칭과 실시간 그룹 채팅</li>
+        <li>타이머·투두·랭킹 및 학습 통계 시각화</li>
+      </ul>
+      <p><sub>React · Node.js · FastAPI · MySQL · MongoDB</sub></p>
+      <p><a href="https://100bee.github.io/chronote-demo/">UI 미리보기 ↗</a></p>
     </td>
   </tr>
 </table>
 
-<br/>
+## Education & Activities
 
-## 🎓 Education & Activities
+| 기간 | 내용 |
+| :--- | :--- |
+| 2024.03 — 2026.08 | 단국대학교 소프트웨어학과 졸업 |
+| 2025.12 — 2026.03 | ITPT — 졸업 프로젝트, AI 면접 서비스 개발 및 배포 |
+| 2025.06 — 2025.12 | Chronote — TABA 팀 프로젝트, AI 학습 관리 플랫폼 개발 |
 
-<table>
-  <tr>
-    <th>기간</th>
-    <th>내용</th>
-    <th>비고</th>
-  </tr>
-  <tr>
-    <td>2024.03 ~ 2026.08</td>
-    <td>단국대학교 소프트웨어학과</td>
-    <td><img src="https://img.shields.io/badge/졸업-2563EB?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>2025.12 ~ 2026.03</td>
-    <td>ITPT 개발 (졸업 프로젝트)</td>
-    <td><img src="https://img.shields.io/badge/배포완료-22c55e?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>2025.06 ~ 2025.12</td>
-    <td>Chronote 개발 (TABA팀 프로젝트)</td>
-    <td><img src="https://img.shields.io/badge/Java_Spring으로_전환완료-f59e0b?style=flat-square"/></td>
-  </tr>
-</table>
+## Contact
 
-<br/>
-
-## 📬 Contact
-
-<a href="mailto:wjdwltjr3939@naver.com">
-  <img src="https://img.shields.io/badge/Email-wjdwltjr3939@naver.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://100bee.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-100bee.github.io-0F1623?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,7C3AED&height=100&section=footer" width="100%"/>
+[**wjdwltjr3939@naver.com**](mailto:wjdwltjr3939@naver.com) &nbsp; · &nbsp; [**Portfolio ↗**](https://100bee.github.io/)

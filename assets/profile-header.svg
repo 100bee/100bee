@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Jiseok Jung — Software Engineer</title>
+  <desc id="description">A pure white editorial header with black typography, a blue 100 BEE monogram, and interests in software, AI, data, and infrastructure.</desc>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="#FFFFFF" stroke="#DEE4ED"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="44" fill="#161B22" font-family="'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="3">100BEE</text>
+    <text x="1152" y="44" text-anchor="end" fill="#526071" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.2">SOFTWARE / AI / DATA / INFRASTRUCTURE</text>
+    <path d="M48 65H1152" fill="none" stroke="#DEE4ED"/>
+    <text x="44" y="165" fill="#111827" font-size="88" font-weight="700" letter-spacing="-4.5">Jiseok Jung.</text>
+    <text x="48" y="217" fill="#2563EB" font-size="34" font-weight="500" letter-spacing="-0.9">Software Engineer</text>
+    <path d="M858 95V232" fill="none" stroke="#DEE4ED"/>
+    <text x="1012" y="177" text-anchor="middle" fill="#2563EB" font-size="116" font-weight="800" letter-spacing="-9">100</text>
+    <text x="1019" y="229" text-anchor="middle" fill="#111827" font-size="39" font-weight="700" letter-spacing="14">BEE</text>
+    <path d="M48 253H1152" fill="none" stroke="#DEE4ED"/>
+    <text x="48" y="280" fill="#526071" font-family="'Courier New', monospace" font-size="12" letter-spacing="1.1">BUILD / CONNECT / IMPROVE</text>
+    <text x="1152" y="280" text-anchor="end" fill="#526071" font-family="'Courier New', monospace" font-size="12" letter-spacing="0.5">github.com/100bee</text>
+  </g>
+</svg>
