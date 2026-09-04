@@ -73,15 +73,16 @@ AI·컴퓨터비전과 MLOps·AI 서비스 운영 자동화에 관심을 두고,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/100bee/a-little-writer">a-little-writer ↗</a></h3>
-      <p><b>일기를 4컷 만화로 만드는 AI 앱</b></p>
-      <p>일기 텍스트에서 장면을 기획하고, 대사와 이미지 프롬프트를 만든 뒤 4컷 만화를 생성합니다.</p>
+      <h3><a href="https://github.com/100bee/gaze-signal-api">GazeSignal API ↗</a></h3>
+      <p><b>웹캠 기반 실시간 시각 신호 API</b></p>
+      <p>원본 영상을 로컬에서 처리해 시선 구역, 얼굴 상태와 머리 자세를 구조화된 이벤트로 제공합니다.</p>
       <ul>
-        <li>기획 → 프롬프트·대사 → 이미지 생성 워크플로</li>
-        <li>그림 스타일, 대사 톤과 이미지 시드 선택</li>
+        <li>MediaPipe·OpenCV 기반 시선 특징 및 head pose 추정</li>
+        <li>개인별 캘리브레이션과 시간축 신호 안정화</li>
+        <li>REST·WebSocket 연동 및 선택적 YOLO 휴대폰 탐지</li>
       </ul>
-      <p><sub>Python · Streamlit · Gemini · Pollinations</sub></p>
-      <p><a href="https://github.com/100bee/a-little-writer#demo">생성 결과 보기 ↗</a></p>
+      <p><sub>Python · FastAPI · MediaPipe · OpenCV · YOLO · SQLite</sub></p>
+      <p><a href="https://github.com/100bee/gaze-signal-api#동작-방식">구조 살펴보기 ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/100bee/chronote">Chronote ↗</a></h3>
