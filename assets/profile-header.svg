@@ -9,7 +9,7 @@
 
   <desc id="description">
     A pure white editorial header with black typography, a blue 100 BEE monogram,
-    and interests in software, AI, MLOps, data, and infrastructure.
+    and interests in software, AI, LLMOps, data, and infrastructure.
   </desc>
 
   <rect
@@ -46,7 +46,7 @@
       font-size="13"
       letter-spacing="1.2"
     >
-      SOFTWARE / AI / MLOPS / DATA / INFRA
+      SOFTWARE / AI / LLMOPS / DATA / INFRA
     </text>
 
     <!-- Top Divider -->
