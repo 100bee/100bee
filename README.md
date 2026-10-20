@@ -68,7 +68,7 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
         <li>Docker·AWS EC2 배포와 GitHub Actions 자동화</li>
       </ul>
       <p><sub>Java · Spring Boot · React · MySQL · Docker</sub></p>
-      <p><a href="https://itptapp.com/">서비스 방문 ↗</a></p>
+      <p><a href="https://itpt.cloud/">서비스 방문 ↗</a></p>
     </td>
   </tr>
   <tr>
