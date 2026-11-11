@@ -47,16 +47,16 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/100bee/rag-ops-copilot">RAGOps Copilot ↗</a></h3>
-      <p><b>운영 문서 기반 RAG 장애 대응 도우미</b></p>
-      <p>Runbook과 장애 기록에서 관련 근거를 검색해 대응 절차를 제안하는 서비스입니다.</p>
+      <h3><a href="https://github.com/100bee/lawg">Lawg ↗</a></h3>
+      <p><b>게임·커뮤니티 이용자를 위한 온라인 사건 법령 안내</b></p>
+      <p>일상어로 적은 사건을 법률 쟁점으로 바꿔 관련 조문을 찾고, 근거가 있을 때만 사건 정리 리포트를 씁니다. 운영 문서로 검증한 RAG 엔진(구 RAGOps Copilot)을 법령 데이터로 옮기는 중입니다.</p>
       <ul>
-        <li>벡터·키워드·하이브리드 검색 비교</li>
-        <li>Golden Dataset 기반 검색 품질·지연시간 평가</li>
-        <li>출처, 검색 점수, 토큰 사용량과 실행 기록 확인</li>
+        <li>20문항 평가셋으로 벡터·키워드·하이브리드 검색 비교</li>
+        <li>검색·답변 두 단계 거절과 출처 ID 검증</li>
+        <li>Gemini 거절 기준 보정: 범위 밖 질문 거절 0/5 → 3/5</li>
       </ul>
-      <p><sub>Python · FastAPI · PostgreSQL · pgvector · Next.js</sub></p>
-      <p><a href="https://github.com/100bee/rag-ops-copilot/blob/main/docs/hybrid-retrieval-experiment.md">검색 비교 실험 ↗</a></p>
+      <p><sub>Python · FastAPI · PostgreSQL · pgvector · Gemini · Next.js</sub></p>
+      <p><a href="https://github.com/100bee/lawg/blob/main/docs/retrieval-experiment-v3-gemini-calibrated.md">거절 기준 보정 실험 ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/CSInterviewProject/ITPT_PUBLIC">ITPT ↗</a></h3>
@@ -98,6 +98,8 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
   </tr>
 </table>
 
+**Side project** &nbsp;·&nbsp; [claude-code-mods ↗](https://github.com/100bee/claude-code-mods) — Claude Code를 내 손에 맞게 바꾸는 mod 모음 (사이드바, 채팅 테마, 작업 중 오리)
+
 ## Education & Activities
 
 | 기간 | 내용 |
@@ -105,8 +107,9 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
 | 2024.03 — 2026.08 | 단국대학교 소프트웨어학과 졸업 |
 | 2025.06 — 2025.12 | Chronote — TABA 팀 프로젝트, AI 학습 관리 플랫폼 개발 |
 | 2025.12 — 2026.03 | ITPT — 졸업 프로젝트, AI 면접 서비스 개발 및 배포 |
-| 2026.06 — 2026.09 | RAG Ops Copilot — RAG 평가·모니터링·운영 자동화 프로젝트 개발 |
+| 2026.06 — 2026.09 | RAGOps Copilot — RAG 검색·평가 엔진 개발 (현 Lawg) |
 | 2026.09 —  | 시선분석API — 시선 분석 API 프로젝트 개발중 |
+| 2026.11 —  | Lawg — 온라인 사건 법령 안내 서비스로 전환 개발중 |
 
 ## Contact
 
