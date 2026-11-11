@@ -49,14 +49,14 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
     <td width="50%" valign="top">
       <h3><a href="https://github.com/100bee/lawg">Lawg ↗</a></h3>
       <p><b>게임·커뮤니티 이용자를 위한 온라인 사건 법령 안내</b></p>
-      <p>일상어로 적은 사건을 법률 쟁점으로 바꿔 관련 조문을 찾고, 근거가 있을 때만 사건 정리 리포트를 씁니다. 운영 문서로 검증한 RAG 엔진(구 RAGOps Copilot)을 법령 데이터로 옮기는 중입니다.</p>
+      <p>일상어로 적은 사건을 법률 쟁점으로 바꿔 관련 조문을 찾고, 근거가 있을 때만 사건 정리 리포트를 쓰는 서비스를 개발하고 있습니다.</p>
       <ul>
-        <li>20문항 평가셋으로 벡터·키워드·하이브리드 검색 비교</li>
-        <li>검색·답변 두 단계 거절과 출처 ID 검증</li>
-        <li>Gemini 거절 기준 보정: 범위 밖 질문 거절 0/5 → 3/5</li>
+        <li>벡터·키워드·하이브리드 검색 비교 평가</li>
+        <li>근거가 부족하면 검색·답변 두 단계에서 거절</li>
+        <li>주장마다 출처 ID를 요구하는 리포트 구조</li>
       </ul>
       <p><sub>Python · FastAPI · PostgreSQL · pgvector · Gemini · Next.js</sub></p>
-      <p><a href="https://github.com/100bee/lawg/blob/main/docs/retrieval-experiment-v3-gemini-calibrated.md">거절 기준 보정 실험 ↗</a></p>
+      <p><a href="https://github.com/100bee/lawg#리포트-구성">리포트 구성 ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/CSInterviewProject/ITPT_PUBLIC">ITPT ↗</a></h3>
@@ -107,9 +107,8 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
 | 2024.03 — 2026.08 | 단국대학교 소프트웨어학과 졸업 |
 | 2025.06 — 2025.12 | Chronote — TABA 팀 프로젝트, AI 학습 관리 플랫폼 개발 |
 | 2025.12 — 2026.03 | ITPT — 졸업 프로젝트, AI 면접 서비스 개발 및 배포 |
-| 2026.06 — 2026.09 | RAGOps Copilot — RAG 검색·평가 엔진 개발 (현 Lawg) |
+| 2026.06 —  | Lawg — RAG 기반 온라인 사건 법령 안내 개발중 |
 | 2026.09 —  | 시선분석API — 시선 분석 API 프로젝트 개발중 |
-| 2026.11 —  | Lawg — 온라인 사건 법령 안내 서비스로 전환 개발중 |
 
 ## Contact
 
