@@ -9,7 +9,7 @@
 안녕하세요, **소프트웨어 엔지니어 정지석**입니다.<br/>
 문제를 이해하고 필요한 기술을 연결해, 실제로 사용할 수 있는 서비스를 만듭니다.
 
-AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고, 프로젝트의 구현부터 평가와 배포까지 경험을 쌓고 있습니다.
+AI·컴퓨터비전과 RAG 기반 AI 서비스에 관심을 두고, 프로젝트의 구현부터 평가와 배포까지 경험을 쌓고 있습니다.
 
 ## Tech Stack
 
@@ -19,6 +19,9 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
 ![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-2563EB?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-2563EB?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2563EB?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini_API-2563EB?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-2563EB?style=flat-square)
 
 **Software Development**
 
@@ -108,7 +111,7 @@ AI·컴퓨터비전과 LLMOps·AI 서비스 운영 자동화에 관심을 두고
 | 2025.06 — 2025.12 | Chronote — TABA 팀 프로젝트, AI 학습 관리 플랫폼 개발 |
 | 2025.12 — 2026.03 | ITPT — 졸업 프로젝트, AI 면접 서비스 개발 및 배포 |
 | 2026.06 —  | Lawg — RAG 기반 온라인 사건 법령 안내 개발중 |
-| 2026.09 —  | 시선분석API — 시선 분석 API 프로젝트 개발중 |
+| 2026.09 —  | GazeSignal API — 웹캠 기반 실시간 시각 신호 API 개발중 |
 
 ## Contact
 
