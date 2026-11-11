@@ -101,7 +101,11 @@ AI·컴퓨터비전과 RAG 기반 AI 서비스에 관심을 두고, 프로젝트
   </tr>
 </table>
 
-**Side project** &nbsp;·&nbsp; [claude-code-mods ↗](https://github.com/100bee/claude-code-mods) — Claude Code를 내 손에 맞게 바꾸는 mod 모음 (사이드바, 채팅 테마, 작업 중 오리)
+## Toy Projects
+
+<sub>재미로 가볍게 만들어 본 것들</sub>
+
+- **[claude-code-mods ↗](https://github.com/100bee/claude-code-mods)** — Claude Code를 내 손에 맞게 바꾸는 mod 모음. 사이드바, 채팅 테마, 작업하는 동안 걸어가는 픽셀 오리
 
 ## Education & Activities
 
